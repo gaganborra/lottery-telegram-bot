@@ -13,7 +13,7 @@ from datetime import date
 from flask import Flask, request
 
 # Initializing the bot
-token = '' # <<---- INPUT YOUR BOT TOKEN 
+token = '2048991115:AAGq5nRduf1yBgMnAtZ8uEoaDHedQS4ID8M' # <<---- INPUT YOUR BOT TOKEN 
 
 # Needed variables for the application
 message_id = '' #previous message to be deleted
